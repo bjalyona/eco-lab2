@@ -1,6 +1,8 @@
-﻿Build started 31.10.2025 18:58:16.
-     1>Project "D:\Programm files\001.InsideACOM\Lessons\Lesson06\Eco.CalculatorD\AssemblyFiles\Windows\VisualStudio_10\Eco.CalculatorD.vcxproj" on node 2 (build target(s)).
-     1>InitializeBuildStatus:
+﻿Build started 23.11.2025 16:00:10.
+     1>Project "D:\Programm files\001.InsideACOM\Lessons\Lesson06\Eco.CalculatorD\AssemblyFiles\Windows\VisualStudio_10\Eco.CalculatorD.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "D:\Programm files\ecolab2\eco-lab1\BuildFiles\Windows\x86\DynamicDebug\obj\Eco.CalculatorD\Eco.CalculatorD.lastbuildstate".
+       InitializeBuildStatus:
          Creating "D:\Programm files\ecolab2\eco-lab1\BuildFiles\Windows\x86\DynamicDebug\obj\Eco.CalculatorD\Eco.CalculatorD.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
          D:\Programm files\Visual\VC\bin\CL.exe /c /I..\..\..\HeaderFiles /I..\..\..\SharedFiles /I..\..\..\..\..\Lesson02\Eco.CalculatorA\SharedFiles /I..\..\..\..\..\Lesson03\Eco.CalculatorB\SharedFiles /I"D:\Programm files\VS2010Express\Eco.Framework_20250429\Eco.Core1\SharedFiles" /I"D:\Programm files\VS2010Express\Eco.Framework_20250429\Eco.MemoryManager1\SharedFiles" /I"D:\Programm files\VS2010Express\Eco.Framework_20250429\Eco.InterfaceBus1\SharedFiles" /ZI /nologo /W3 /WX- /Od /Oy- /D ECO_WINDOWS /D ECO_WIN32 /D _DEBUG /D _WINDOWS /D ECO_X86_32 /D ECO_DLL /D UGUID_UTILITY /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\Programm files\ecolab2\eco-lab1\BuildFiles\Windows\x86\DynamicDebug\obj\Eco.CalculatorD\\" /Fd"D:\Programm files\ecolab2\eco-lab1\BuildFiles\Windows\x86\DynamicDebug\obj\Eco.CalculatorD\vc100.pdb" /Gz /TC /analyze- /errorReport:prompt ..\..\..\SourceFiles\CEcoCalculatorD.c ..\..\..\SourceFiles\CEcoCalculatorDFactory.c
@@ -17,8 +19,8 @@
        FinalizeBuildStatus:
          Deleting file "D:\Programm files\ecolab2\eco-lab1\BuildFiles\Windows\x86\DynamicDebug\obj\Eco.CalculatorD\Eco.CalculatorD.unsuccessfulbuild".
          Touching "D:\Programm files\ecolab2\eco-lab1\BuildFiles\Windows\x86\DynamicDebug\obj\Eco.CalculatorD\Eco.CalculatorD.lastbuildstate".
-     1>Done Building Project "D:\Programm files\001.InsideACOM\Lessons\Lesson06\Eco.CalculatorD\AssemblyFiles\Windows\VisualStudio_10\Eco.CalculatorD.vcxproj" (build target(s)).
+     1>Done Building Project "D:\Programm files\001.InsideACOM\Lessons\Lesson06\Eco.CalculatorD\AssemblyFiles\Windows\VisualStudio_10\Eco.CalculatorD.vcxproj" (rebuild target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.40
+Time Elapsed 00:00:01.57
